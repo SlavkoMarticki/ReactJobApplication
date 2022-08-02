@@ -1,0 +1,61 @@
+.formHolder{
+    width: 100%;
+    height: 93%;
+    padding: 40px 20px 20px 20px;
+}
+.formHolder textarea{
+    border-radius: 5px;
+    border: 1.6px solid rgb(160, 157, 157);
+    margin-left: 7px;
+    resize: none;
+    height: 50px;
+    width: 40%;
+  
+}
+.formHolder input,label{
+    margin-top: 10px;
+}
+.formHolder input{
+    border: 2px solid rgb(158, 156, 156);
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.formHolder fieldset{
+    width: 70%;
+    padding: 0px;
+}
+.formHolder fieldset label{
+    font-size: 4px;
+}
+.formHolder fieldset input{
+    padding: 0px;
+    font-size: 5px;
+    width: 5x;
+    height: 2px;
+}
+.formHolder p{
+    margin: 10px 0px 5px 0px;
+}
+
+.formHolder .buttonHolder{
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+.formHolder .buttonHolder button{
+    margin: auto;
+    width: 180px;
+    height: 39px;
+    font-size: 14px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(61, 35, 138);
+    color: white;
+}
+.formHolder .buttonHolder button:hover{
+    cursor: pointer;
+}
+
+

@@ -1,0 +1,11 @@
+.title{
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.title h1{
+    color: rgb(124, 129, 129);
+    letter-spacing: 1.7px;
+    margin: 0px;
+}
